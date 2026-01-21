@@ -2,6 +2,9 @@
 
 A simple Author Management dashboard built with React + TypeScript using the JSONPlaceholder API.
 
+## Live Demo
+- Vercel: https://hana-task.vercel.app/
+
 ## Screenshots
 
 <img src="src/assets/user-page.png" alt="Users Page" width="900" />
