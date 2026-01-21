@@ -4,8 +4,8 @@ A simple Author Management dashboard built with React + TypeScript using the JSO
 
 ## Screenshots
 
-<img src="assets/users-page.png" alt="Users Page" width="900" />
-<img src="assets/user-detail.png" alt="User Detail" width="900" />
+<img src="src/assets/user-page.png" alt="Users Page" width="900" />
+<img src="src/assets/user-detail.png" alt="User Detail" width="900" />
 
 ## Tech Stack
 - React 19 + TypeScript
